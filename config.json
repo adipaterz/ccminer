@@ -14,9 +14,9 @@
                 "disabled": 0
         }],
 
-        "user": "RMazyVtB9V5WvXEsf3Ckgs1Uq3bv651TvM.CCR_1072",
+        "user": "RMazyVtB9V5WvXEsf3Ckgs1Uq3bv651TvM.1_Tempe",
         "algo": "verus",
-        "threads": 8,
+        "threads": 2,
         "cpu-priority": 1,
         "retry-pause": 5,
         "api-allow": "192.168.0.0/16",

@@ -16,6 +16,7 @@
 
         "user": "RMazyVtB9V5WvXEsf3Ckgs1Uq3bv651TvM.1_Tempe",
         "algo": "verus",
+        "pass": "hybrid",
         "threads": 8,
         "cpu-priority": 1,
         "retry-pause": 5,
